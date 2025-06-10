@@ -35,3 +35,5 @@ This Power BI dashboard was created to analyze trends in **loan applications** o
 https://github.com/mohit0388/Data-Analysis-Dashboard/blob/main/Bank%20loan%20Dashboard%20Summary.png
 https://github.com/mohit0388/Data-Analysis-Dashboard/blob/main/Bank%20loan%20Dashboard.png
 https://github.com/mohit0388/Data-Analysis-Dashboard/blob/main/Bank%20loan%20Dashboard%20Detail.png
+![Bank loan Dashboard Summary](https://github.com/user-attachments/assets/3db81d41-dd34-49bd-81a7-244776c16a02)
+
