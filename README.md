@@ -23,7 +23,7 @@ This Power BI dashboard was created to analyze trends in **loan applications** o
 
 ### 📈 Observations:
 - The dashboard clearly shows **seasonal trends** in loan applications.
-- There is often a dip in applications in certain months, which could be tied to external factors (e.g., holidays, fiscal cycles).
+- There is often a dip in applications in certain months, which could be tied to external factors 
 - By comparing **MTD to PMTD**, decision-makers can quickly see if current performance is ahead or behind.
 
 ### 🧠 Strategic Value:
