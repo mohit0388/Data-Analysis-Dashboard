@@ -32,4 +32,4 @@ This Power BI dashboard was created to analyze trends in **loan applications** o
 - A strong base for further additions like **loan approval rates**, **default risk**, or **branch performance**.
 
 ## Dashboard  
-
+https://github.com/mohit0388/Data-Analysis-Dashboard/blob/main/Bank%20loan%20Dashboard%20Summary.png
