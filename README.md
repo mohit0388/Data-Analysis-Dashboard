@@ -31,3 +31,5 @@ This Power BI dashboard was created to analyze trends in **loan applications** o
 - Allows teams to take **early action** if trends are downward (e.g., plan marketing or outreach).
 - A strong base for further additions like **loan approval rates**, **default risk**, or **branch performance**.
 
+## Dashboard  
+
